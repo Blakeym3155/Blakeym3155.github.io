@@ -1,0 +1,13 @@
+title: Mikayla's homepage
+description: Mikayla's Home on GitHub Pages
+github_username: Blakeym3155
+
+remote_theme: pages-themes/minima@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Custom settings
+title: "My Pink Hello Kitty Page"
+description: "A cute Hello Kitty themed GitHub page"
