@@ -2,7 +2,7 @@
 # Welcome to My GitHub Page
 
 ## About Me
-- Hi, I'm [Your Name], a new C++ student.
+- Hi, I'm Mikayla, a new C++ student.
 - I love Hello Kitty.
 - I own my own business.
 - I'm really enjoying learning C++ so far.
