@@ -25,3 +25,6 @@
 ## Contact
 - Feel free to reach out if you have any questions about C++, Hello Kitty, or running a business.
 - I'm always happy to connect with like-minded individuals.
+
+## Here is my final mini project
+- Final_mini_project.html
