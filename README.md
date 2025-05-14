@@ -27,4 +27,5 @@
 - I'm always happy to connect with like-minded individuals.
 
 ## Here is my final mini project
-- (Choose Your Own Adventure)[Final_mini_project.html]
+- <a href="Final_mini_project.html">Choose Your Own Adventure</a>
+
