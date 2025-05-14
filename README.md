@@ -27,4 +27,4 @@
 - I'm always happy to connect with like-minded individuals.
 
 ## Here is my final mini project
-- Final_mini_project.html
+- [Final_mini_project.html]
